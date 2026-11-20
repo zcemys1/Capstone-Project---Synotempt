@@ -35,17 +35,17 @@ def synonym():
     dictionary = AyDictionary()
 
     synonym = dictionary.synonym(given_word)
-    return synonym
+
+    return synonym, given_word
 
 """Function to generate the definition of a given word with AyDictionary library"""
 
-def definition():
+def definition(word):
 
-    word = generate_word()
-
+    
     from AyDictionary import AyDictionary
     dictionary = AyDictionary()
 
     meaning = dictionary.meaning(word)
-    print(f"The definition of {word} is: {meaning}")
+    return meaning
     
