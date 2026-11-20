@@ -39,8 +39,9 @@ strikes = 0
 
 
 """DOES NOT WORK:Check if definition function is working correctly
-"""
+
 print(f"The definition of {given_word} is: {definition(given_word)}")
+"""
 
 while True:
     guess = input("Please enter your guess for a synonym of the given word: ")
