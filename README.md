@@ -18,10 +18,10 @@ _How to run code:_
 
 1. Create and activate virtual environment in terminal:
    
-    python -m venv .venv
-    .venv\Scripts\activate
+    `python -m venv .venv`
+    `.venv\Scripts\activate`
     (For Mac/Linux)
-    python3 -m venv .venv && source .venv/bin/activate
+    `python3 -m venv .venv && source .venv/bin/activate`
 
 2. Install the code module required:
    
@@ -29,4 +29,4 @@ _How to run code:_
 
 3. Play the game!:
    
-   python3 game.py
+   `python3 game.py`
