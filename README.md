@@ -7,7 +7,7 @@
   ├──  notes.txt                  -> Some notes regarding the code including some issues that were found and "resolved"
   ├──  README.md                  -> Game overview and instructions
   └────  src
-    ├──  requirements.txt               -> Imports needed for game
+    ├──  requirements.txt         -> Imports needed for game
     ├──  functions.py             -> Contains the functions required for game.py to run
     ├──  game.py                  -> Contains the code to run the game
     ├──  __pycache__
