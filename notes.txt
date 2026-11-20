@@ -1,0 +1,21 @@
+Hi there! Welcome to my Synonym game. :
+
+I am planning to create a game where you have to guess the synonym of a word using the "AyDictionary" module (https://www.geeksforgeeks.org/python/aydictionary-module-in-python/)
+
+
+The instructions for the code are:
+
+1. Greet and ask for user name
+
+2. Explain the game to the user. They would have 10 strikes at most
+
+3. Present the word that they would need to find the synonym for (random word generator: https://pypi.org/project/random_word/ )
+
+4. Run a loop that asks them for a word
+
+5. User has an option to get the definition of the word
+
+Errors:
+
+- not generating the right synonyms
+- couldnt get definitions to work
